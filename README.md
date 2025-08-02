@@ -1,16 +1,17 @@
-# expense_tracker
+# Expense Tracker
 
 An expense tracker application
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+App first launched view
+![Project Screenshot](images/1.png "First launched screenshot")
 
-A few resources to get you started if this is your first Flutter project:
+Click the wallet icon to open this screen (top-right) to add monthly budget
+![Project Screenshot](images/2.png "Add monthly budget screenshot")
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Click the Floating action button at the bottom right to add an expense
+![Project Screenshot](images/3.png "Add expense screenshot")
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screen when there is data to display
+![Project Screenshot](images/4.png "display data screenshot")
