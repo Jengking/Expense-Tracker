@@ -5,6 +5,7 @@ An expense tracker application
 ## Getting Started
 
 App first launched view
+
 ![Project Screenshot](images/1.png "First launched screenshot")
 
 Click the wallet icon to open this screen (top-right) to add monthly budget
