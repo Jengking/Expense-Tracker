@@ -1,0 +1,74 @@
+{
+    "expenseCategories": [
+        {
+            "name": "Housing",
+            "recommendedPercentage": 30,
+            "isFixed": true
+        },
+        {
+            "name": "Transportation",
+            "recommendedPercentage": 15,
+            "isFixed": false
+        },
+        {
+            "name": "Food",
+            "recommendedPercentage": 15,
+            "isFixed": false
+        },
+        {
+            "name": "Utilities",
+            "recommendedPercentage": 10,
+            "isFixed": true
+        },
+        {
+            "name": "Insurance",
+            "recommendedPercentage": 10,
+            "isFixed": true
+        },
+        {
+            "name": "Debt Repayment",
+            "recommendedPercentage": null,
+            "isFixed": false
+        },
+        {
+            "name": "Savings",
+            "recommendedPercentage": 20,
+            "isFixed": false
+        },
+        {
+            "name": "Investing",
+            "recommendedPercentage": null,
+            "isFixed": false
+        },
+        {
+            "name": "Personal Care",
+            "recommendedPercentage": 10,
+            "isFixed": false
+        },
+        {
+            "name": "Clothing",
+            "recommendedPercentage": 10,
+            "isFixed": false
+        },
+        {
+            "name": "Entertainment",
+            "recommendedPercentage": 10,
+            "isFixed": false
+        },
+        {
+            "name": "Gifts",
+            "recommendedPercentage": 10,
+            "isFixed": false
+        },
+        {
+            "name": "Pet Expenses",
+            "recommendedPercentage": null,
+            "isFixed": false
+        },
+        {
+            "name": "Miscellaneous",
+            "recommendedPercentage": 10,
+            "isFixed": false
+        }
+    ]
+}
